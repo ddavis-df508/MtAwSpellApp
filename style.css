@@ -7,7 +7,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	max-width: 1000px;
-	background-image: url("images/MageBackround.jpg");
+	/*background-image: url("images/MageBackround.jpg");*/
 	background-size: cover;
 	background-color: hsla(180, 100%, 30%, 0.9);
 	margin: auto;
