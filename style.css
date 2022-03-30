@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	font-family: "Times New Roman", Times, serif;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 1000px;
+	background-image: url("images/MageBackround.jpg");
+	background-size: cover;
+	background-color: hsla(180, 100%, 30%, 0.9);
+	margin: auto;
+	}
+header {
+		align: center;
+		text-align: center;
+		color: hsl(60, 75%, 40%);
+		text-shadow: 2px 2px hsla(300, 60%, 40%, 0.3);
+		-webkit-text-stroke-width: 0.7px;
+		-webkit-text-stroke-color: hsla(0, 0%, 0%, 0.5);
+		padding: 20px;
+	}
+main {
+		align: center;
+		text-align: center;
+		padding: 20px;
+	}
+footer {
+		align: center;
+		text-align: center;
+	}
+#intro {
+		text-align: center;
+		word-wrap: break-word;
+	}
+#searchoptions {
+		align: center;
+		text-align: center;
+		width: auto;
+		list-style-type: none;
+		padding-left: 0;
+		font-weight: bold;
+		color: hsl(60, 75%, 40%);
+		text-shadow: 2px 2px hsla(300, 60%, 40%, 0.3);
+		-webkit-text-stroke-width: 0.7px;
+		-webkit-text-stroke-color: hsla(0, 0%, 0%, 0.5);
+		font-size: 30px;
+		line-height: 50px;
+		margin-top: 20px;
+	}
