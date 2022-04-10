@@ -50,3 +50,8 @@ footer {
 	line-height: 100px;
 	margin-top: 20px;
 }
+li.searchitems:hover {
+	color: hsl(60, 85%, 50%);
+	text-shadow: 4px 4px hsla(300, 60%, 20%, 0.3);
+}
+	
