@@ -14,7 +14,7 @@ body {
 }
 header {
 	min-width: 600px;
-	align: center;
+	box-align: center;
 	text-align: center;
 	color: hsl(60, 75%, 40%);
 	text-shadow: 2px 2px hsla(300, 60%, 40%, 0.3);
@@ -23,12 +23,12 @@ header {
 	padding: 10px;
 }
 main {
-	align: center;
+	box-align: center;
 	text-align: center;
 	padding: 20px;
 }
 footer {
-	align: center;
+	box-align: center;
 	text-align: center;
 }
 #intro {
@@ -36,7 +36,7 @@ footer {
 	word-wrap: break-word;
 }
 #searchoptions {
-	align: center;
+	box-align: center;
 	text-align: center;
 	width: auto;
 	list-style-type: none;
